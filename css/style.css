@@ -1,0 +1,22 @@
+﻿.intro{
+  background-image: url(../img/title-image.jpg);
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+.title-text {
+	  font-family: 'Montserrat', sans-serif;
+}
+
+.hardandsoftskills {
+	color: #e6dfdf;
+}
+
+#experience {
+  background-color: #141212;
+}
+
+#courses {
+  background-color: #141212;
+}
